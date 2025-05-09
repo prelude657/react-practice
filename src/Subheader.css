@@ -1,0 +1,39 @@
+.subheader-container {
+    padding: 2rem 3rem;
+    color: white;
+    background-color: #141414; /* Dark background to mimic Netflix */
+    border-bottom: 4px solid #e50914; /* Red underline, Netflix style */
+    margin-top: 20px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .subheader-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #e50914; /* Netflix red */
+    margin-bottom: 1rem;
+  }
+  
+  .subheader-paragraph {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    max-width: 900px;
+    margin: 0 auto;
+    font-weight: 400;
+    text-align: center;
+    color: #b3b3b3; /* Default text color */
+    padding: 0 1rem;
+  }
+  
+  /* Light Mode */
+  .subheader-paragraph.light {
+    color: black; /* Black text in light mode */
+  }
+  
+  /* Dark Mode */
+  .subheader-paragraph.dark {
+    color: yellow; /* Yellow text in dark mode */
+  }
+  
+  
