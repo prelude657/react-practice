@@ -1,6 +1,6 @@
 # Baiana Braids (React Practice Project)
 
-This project was created as an initial hands-on learning experience with React. The goal was to build a functional and visually engaging hair braiding services website while getting comfortable with key React concepts and development practices.
+This project was created as a refresher hands-on learning experience with React. The goal was to build a functional and visually engaging hair braiding services website while getting comfortable with key React concepts and development practices.
 
 ## 🧠 Purpose
 
